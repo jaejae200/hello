@@ -1,2 +1,2 @@
-# gitbug 과제
+# github 과제
 
